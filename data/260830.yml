@@ -1,0 +1,59 @@
+about:
+  description: A command line tool to download release assets from GitHub
+  license: MIT
+  homepage: 
+  head: ce1cb42
+  archived: false
+  latestVersion: 0.10.3
+  collectedAt: 2026-08-30T05:54:46Z
+timeline:
+  created: 2021-12-04
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 354
+  watcher: 3
+  fork: 17
+  release: 44
+  contributor: 7
+  pullRequest: 19
+  issue: 72
+language:
+  Rust: 137756
+  Shell: 8421
+  Makefile: 2777
+  Tape: 955
+totalLine: 149909
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 4
+  last90d:
+    since: 2026-06-01
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 2
+    openIssue: 2
+    commit: 26
+  last180d:
+    since: 2026-03-03
+    release: 2
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 4
+    openIssue: 3
+    commit: 32
+  last360d:
+    since: 2025-09-04
+    release: 5
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 12
+    openIssue: 4
+    commit: 98
