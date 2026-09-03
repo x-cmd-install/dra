@@ -1,11 +1,13 @@
 about:
-  description: A command line tool to download release assets from GitHub
+  description:
+  |
+    A command line tool to download release assets from GitHub
   license: MIT
   homepage: 
   head: ce1cb42
   archived: false
   latestVersion: 0.10.3
-  collectedAt: 2026-09-03T05:13:19Z
+  collectedAt: 2026-09-03T22:35:55Z
 timeline:
   created: 2021-12-04
   lastCommit: 2026-08-28
@@ -23,7 +25,7 @@ language:
   Shell: 8421
   Makefile: 2777
   Tape: 955
-totalLine: 149909
+totalBytes: 149909
 recent:
   last30d:
     since: 2026-08-04
