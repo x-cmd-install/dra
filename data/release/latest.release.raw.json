@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1386584,
       "digest": "sha256:602d38179d2f16ac56f63e29411e0990c845dccb5c53458fb29c0a60a037e18c",
-      "download_count": 244,
+      "download_count": 532,
       "created_at": "2026-08-28T17:19:28Z",
       "updated_at": "2026-08-28T17:19:29Z",
       "browser_download_url": "https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-aarch64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1502625,
       "digest": "sha256:396c44d18a92fe5584e42417f218a312cf6df856a9d966c162466c85de4b1359",
-      "download_count": 206,
+      "download_count": 207,
       "created_at": "2026-08-28T17:19:58Z",
       "updated_at": "2026-08-28T17:19:59Z",
       "browser_download_url": "https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1487688,
       "digest": "sha256:b43b7d47ab4b040f286228530c0d9c36172501d23a16c2f3e15b3e807eb0cfef",
-      "download_count": 52,
+      "download_count": 53,
       "created_at": "2026-08-28T17:18:48Z",
       "updated_at": "2026-08-28T17:18:48Z",
       "browser_download_url": "https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1562784,
       "digest": "sha256:e6647ecd7e059160f30166ccec3437905e34250671659fe99f2a7cb18a965744",
-      "download_count": 440,
+      "download_count": 793,
       "created_at": "2026-08-28T17:19:31Z",
       "updated_at": "2026-08-28T17:19:31Z",
       "browser_download_url": "https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-unknown-linux-musl.tar.gz"

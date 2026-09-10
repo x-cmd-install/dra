@@ -7,7 +7,7 @@ about:
   latestVersion: "0.10.3"
   latestRelease: "0.10.3"
   latestPrerelease: "0.5.5-beta"
-  collectedAt: 2026-09-10T16:50:55Z
+  collectedAt: 2026-09-10T20:50:15Z
 timeline:
   created: 2021-12-04
   lastCommit: 2026-08-28
@@ -86,7 +86,7 @@ total:
   commit: 1044
 ---
 path: /home/runner/.x-repo/github.com/devmatteini/dra
-collectedAt: 2026-09-10T16:50:57Z
+collectedAt: 2026-09-10T20:50:16Z
 loc:
   Rust:
     code: 3829
