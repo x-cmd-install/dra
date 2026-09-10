@@ -22,7 +22,19 @@ x install dra
 - **Latest**: `0.10.3` (2026-08-28)
 - **Last commit**: 2026-08-28
 - **Assets in release**: 8
-- **Published**: 2026-08-28T17:17:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dra-0.10.3-aarch64-apple-darwin.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-aarch64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
+| [dra-0.10.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-aarch64-unknown-linux-gnu.tar.gz) | 1.3 MiB | `native/linux/arm64/glibc` |
+| [dra-0.10.3-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-arm-unknown-linux-gnueabihf.tar.gz) | 1.2 MiB | `native/linux/arm/glibc` |
+| [dra-0.10.3-x86_64-apple-darwin.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-apple-darwin.tar.gz) | 1.4 MiB | `native/darwin/x64` |
+| [dra-0.10.3-x86_64-pc-windows-msvc.zip](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
+| [dra-0.10.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [dra-0.10.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/x64/musl` |
+| [dra_0.10.3-1_amd64.deb](https://github.com/devmatteini/dra/releases/download/0.10.3/dra_0.10.3-1_amd64.deb) | 1.2 MiB | `runtime/deb/amd64` |
 
 ## Popularity
 
@@ -57,8 +69,8 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 Install metadata for dra lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dra` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dra.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dra.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:03:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:51:08Z._
