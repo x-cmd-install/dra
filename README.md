@@ -37,7 +37,7 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 363 · **Forks**: 17 · **Open issues**: 73 · **Contributors**: 7
+- **Stars**: 364 · **Forks**: 17 · **Open issues**: 73 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 1 | 1 | 0 | 1 | 1 | 4 |
-| 90d | 2026-07-24 | 1 | 1 | 0 | 1 | 1 | 4 |
-| last180d | 2026-04-25 | 2 | 1 | 0 | 4 | 4 | 32 |
-| 360d | 2025-10-27 | 5 | 4 | 0 | 10 | 5 | 97 |
-| last720d | 2024-11-01 | 11 | 60 | 0 | 36 | 9 | 259 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 1 | 1 | 0 | 1 | 1 | 4 |
+| 90d | 2026-07-25 | 1 | 1 | 0 | 1 | 1 | 4 |
+| last180d | 2026-04-26 | 2 | 1 | 0 | 4 | 4 | 32 |
+| 360d | 2025-10-28 | 5 | 4 | 0 | 10 | 5 | 97 |
+| last720d | 2024-11-02 | 11 | 60 | 0 | 36 | 9 | 256 |
 
 ## Release assets
 
@@ -67,6 +67,15 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 | [dra-0.10.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/x64/musl` |
 | [dra_0.10.3-1_amd64.deb](https://github.com/devmatteini/dra/releases/download/0.10.3/dra_0.10.3-1_amd64.deb) | 1.2 MiB | `runtime/deb/amd64` |
 
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/dra). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.10.3` | ✅ latest |
+| Homebrew | `0.10.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for dra lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dra` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +85,4 @@ Install metadata for dra lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:01:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:05:27Z._
