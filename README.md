@@ -37,22 +37,22 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 364 · **Forks**: 17 · **Open issues**: 73 · **Contributors**: 7
+- **Stars**: 365 · **Forks**: 17 · **Open issues**: 73 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 264 · **Open PRs**: 0 · **Closed issues**: 63 · **Open issues**: 10 · **Commits**: 1044
+- **Releases**: 44 · **Merged PRs**: 264 · **Open PRs**: 1 · **Closed issues**: 63 · **Open issues**: 10 · **Commits**: 1044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-06 | 1 | 1 | 0 | 1 | 1 | 4 |
-| last180d | 2026-05-08 | 2 | 1 | 0 | 3 | 4 | 32 |
-| 360d | 2025-11-09 | 5 | 4 | 0 | 10 | 5 | 92 |
-| last720d | 2024-11-14 | 11 | 60 | 0 | 34 | 9 | 256 |
+| 30d | 2026-10-06 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-06 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-07 | 1 | 1 | 1 | 1 | 1 | 4 |
+| last180d | 2026-05-09 | 2 | 1 | 1 | 3 | 4 | 32 |
+| 360d | 2025-11-10 | 5 | 4 | 1 | 10 | 5 | 92 |
+| last720d | 2024-11-15 | 11 | 60 | 1 | 34 | 9 | 256 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dra lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:39:40Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:00:02Z._
