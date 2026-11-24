@@ -47,12 +47,12 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-25 | 1 | 1 | 1 | 1 | 1 | 0 |
-| last180d | 2026-05-27 | 2 | 1 | 1 | 2 | 4 | 26 |
-| 360d | 2025-11-28 | 4 | 4 | 1 | 7 | 5 | 45 |
-| last720d | 2024-12-03 | 10 | 53 | 1 | 34 | 9 | 196 |
+| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-26 | 1 | 1 | 1 | 1 | 1 | 0 |
+| last180d | 2026-05-28 | 2 | 1 | 1 | 2 | 4 | 26 |
+| 360d | 2025-11-29 | 4 | 4 | 1 | 7 | 5 | 45 |
+| last720d | 2024-12-04 | 10 | 52 | 1 | 34 | 9 | 196 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dra lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:57:48Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:08:53Z._
