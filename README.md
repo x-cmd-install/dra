@@ -47,12 +47,12 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-28 | 1 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-30 | 1 | 1 | 1 | 2 | 3 | 26 |
-| 360d | 2025-12-01 | 4 | 4 | 1 | 6 | 5 | 45 |
-| last720d | 2024-12-06 | 10 | 52 | 1 | 34 | 9 | 195 |
+| 30d | 2026-10-28 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-31 | 1 | 1 | 1 | 2 | 3 | 26 |
+| 360d | 2025-12-02 | 4 | 4 | 1 | 6 | 5 | 45 |
+| last720d | 2024-12-07 | 10 | 52 | 1 | 34 | 9 | 195 |
 
 ## Release assets
 
@@ -67,15 +67,6 @@ Total: **4,245** lines of code across **67** files in the top 5 languages.
 | [dra-0.10.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/x64/musl` |
 | [dra_0.10.3-1_amd64.deb](https://github.com/devmatteini/dra/releases/download/0.10.3/dra_0.10.3-1_amd64.deb) | 1.2 MiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/dra). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.10.3` | ✅ latest |
-| Homebrew | `0.10.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for dra lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dra` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +76,4 @@ Install metadata for dra lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:38:53Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:49:35Z._
